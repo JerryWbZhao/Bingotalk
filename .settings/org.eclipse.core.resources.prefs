@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/Bingotalk/all_test.py=utf-8
+encoding//src/Bingotalk/test_studentSign.py=utf-8
+encoding//src/Bingotalk/test_teacherSign.py=utf-8
+encoding//src/all_tests.py=utf-8
+encoding//src/runtest_htmltestrunner_autosendemail.py=utf-8
+encoding//src/student/s_login.py=utf-8
+encoding//src/student/s_order.py=utf-8
+encoding//src/teacher/t_login.py=utf-8
+encoding//src/teacher/t_order.py=utf-8
